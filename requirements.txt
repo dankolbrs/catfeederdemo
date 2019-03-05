@@ -1,0 +1,5 @@
+sqlalchemy
+RPi.GPIO
+flask
+Flask-Bootstrap
+Flask-WTF
